@@ -2,4 +2,6 @@
     <string name="app_name">AboutMe</string>
     <string name="name">Louise</string>
     <string name="yellow_star">estrela amarela</string>
+    <string name="text_bio_conteiner">Depois de muito estudar engenharia civil, muito cálculo e algumas decepções com as área resolvi ir para minha área de entussiasmo. \n
+        Agora depois de alguns cursos  de <b>programação front-end</b>, estou me aventurando no mundo <i>Mobile</i> e me sinto pronta para o meu primeiro trabalho como programadora. </string>
 </resources>
